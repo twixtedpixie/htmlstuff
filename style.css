@@ -1,0 +1,16 @@
+nav {
+    background-color: rgb(255, 204, 192);
+    width: 800px;
+    padding-top: px;
+    padding-bottom: 5px;
+}
+ footer{
+    width: 800px;
+    background-color: rgb(182, 255, 255);
+    color: rgb(255, 255, 255);
+    height: 300px;
+    padding-top: 10px;
+ }
+ body{
+    background-color: rgb(255, 238, 83);
+ }
